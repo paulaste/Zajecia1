@@ -1,6 +1,6 @@
 # Zajecia1
 
-##Git
+## Git
 
 uczymy sie podstaw pracy z Gitem
 
